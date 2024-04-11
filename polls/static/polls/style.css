@@ -1,0 +1,7 @@
+li a {
+    color: rgb(255, 255, 0);
+    font-size: 30px;
+}
+body {
+    background: red url("images/background.gif") no-repeat;
+}
